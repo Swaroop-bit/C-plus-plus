@@ -8,7 +8,7 @@ int main(){
     float jj =9.9;
     char kick = 'j';
     string myText = "Hello";
-    bool myBoolean = "true";
+    // bool myBoolean = "true";
  
     cout<< "my age is " <<myNum<< " this";
 
