@@ -5,6 +5,8 @@ using namespace std;
 int main(){
 
 string myString = "Hello";
+string firstName = "John";
+string lastName = "Doe";
 cout<< myString[0]<<"\n";
 
 cout<< myString[2]<<"\n";
